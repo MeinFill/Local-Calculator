@@ -1,8 +1,0 @@
-﻿  Server5.cpp
-C:\Users\111\Documents\PP\Server\Server5\Server5\Calculator.h(104,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\111\Documents\PP\Server\Server5\Server5\Calculator.h(155,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\111\Documents\PP\Server\Server5\Server5\Calculator.h(438,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\111\Documents\PP\Server\Server5\Server5\Calculator.h(233,1): warning C4715: check_errors_player: значение возвращается не при всех путях выполнения
-C:\Users\111\Documents\PP\Server\Server5\Server5\Calculator.h(271,1): warning C4715: check_tochek: значение возвращается не при всех путях выполнения
-C:\Users\111\Documents\PP\Server\Server5\Server5\Calculator.h(507,1): warning C4715: calculate: значение возвращается не при всех путях выполнения
-  Server5.vcxproj -> C:\Users\111\Documents\PP\Server\Server5\x64\Debug\Server5.exe
